@@ -1,0 +1,4 @@
+train: /content/yolov5/wheat_data/images/train
+val: /content/yolov5/wheat_data/images/validation
+nc: 1
+names: ["Wheat"]
